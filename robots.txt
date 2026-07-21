@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://js-tech-solutions.github.io/js-tech-solutions/sitemap.xml
